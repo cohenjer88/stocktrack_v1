@@ -1,0 +1,11 @@
+api_key=qAzpRpsh2yD1UcL4fEQq
+
+11/10/18 
+
+Alpha Vantage API Key
+
+29189WGEJUA4P5X6
+
+- Idea of creating a db for every stock symbol is a good one, but Alpha Vantage doesn't tell you what is in the Daily data (so fingers crossed)
+
+- Need some date functionality, don't want to deal with 100 days or everything ... which means you'll have to build in date handling 
